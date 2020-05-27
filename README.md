@@ -1,4 +1,4 @@
-# login-register-modal
+# login_register
 
 This is a login/sign-up page using React
 
